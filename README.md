@@ -23,10 +23,10 @@ Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di
 -  Attivazione KMS online [Batch basato su file, nessun .dll .exe relativo a KMS richiesto]
 -  Cartella $OEM$ per la preattivazione
 -  Risoluzione dei problemi di attivazione
--  Inserisci la chiave HWID di Windows 10-11
--  Cambia l'edizione di Windows 10-11
--  Disponibile in versione All-in-One e file separati
--  Fonte completamente aperta
+-  Inserisce la chiave HWID di Windows 10/11
+-  Cambia l'edizione di Windows 10/11
+-  Disponibile in versione All-in-One e in file separati
+-  Completamente Open Source
 
 ## Cosa attiva?
 -  Windows 7 Pro, Enterprise, Professional ed Embedded Thin PC
@@ -35,10 +35,10 @@ Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di
 -  Windows 10 LTSB e LTSC
 -  Windows Server 2008R2, 2012, 2012R2, 2016, 2019 e 2022
 -  Office 2010 VL (Pro e Standard)
--  Office 2013 e 2013 LV/NOL (Pro e Standard)
+-  Office 2013 e 2013 VL/NOL (Pro e Standard)
 -  Office 2016 e 2016 VL/NOL (Pro e Standard)
--  Office 2019 e 2019 LV/NOL (Pro e Standard)
--  Office 2021 e 2021 LV/NOL (Pro e Standard)
+-  Office 2019 e 2019 VL/NOL (Pro e Standard)
+-  Office 2021 e 2021 VL/NOL (Pro e Standard)
 -  Office 365 (verrà convertito in Mondo 2016 VL)
 
 Il KMS attiva unicamente prodotti non attivi nel PC, quindi se avete Windows o Office con una vostra licenza il KMS non la modificherà in alcun modo. Inoltre dalle ultime versioni è possibile scegliere cosa attivare tramite le Impostazioni.
@@ -49,7 +49,7 @@ La Licenza a VITA permette di Attivare Windows 10/11 tramite una licenza KMS in 
 
 ## Come usarlo?
 
-### Metodo 1 (versione cloud) - Solo per Windows 8.1/10/11
+### Metodo 1 (Versione Cloud) - Solo per Windows 8.1/10/11
 
 -   Scarica il file
 -   Fare doppio clic su di esso
@@ -57,7 +57,7 @@ La Licenza a VITA permette di Attivare Windows 10/11 tramite una licenza KMS in 
 -   Vedrai le opzioni di attivazione e segui le istruzioni sullo schermo.
 -   È tutto.
 
-### Metodo 2 (versione tradizionale) - Per tutti i sistemi operativi Windows
+### Metodo 2 (Versione Tradizionale) - Per tutti i sistemi operativi Windows
 
 -   Scarica il file da [qui](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
 -   Fare clic con il tasto destro sul file zip scaricato ed estrarlo
@@ -94,7 +94,7 @@ ENGLISH
 
 ## Microsoft Activation Scripts (MAS) Cloud Version All-in-One:
 
-The best Windows and Office Activation Tool using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+The best Windows and Office Activation Tool using HWID/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Features
 -  It doesn't install
@@ -112,8 +112,8 @@ The best Windows and Office Activation Tool using HWID / KMS38 / Online KMS acti
 -  Online KMS Activation [Batch file based, no KMS related .dll .exe required]
 -  $OEM$ Folder For Preactivation
 -  Activation Troubleshoot
--  Insert Windows 10-11 HWID Key
--  Change Windows 10-11 Edition
+-  Insert Windows 10/11 HWID Key
+-  Change Windows 10/11 Edition
 -  Available in All In One & Separate Files Version
 -  Fully Open Source
 
@@ -124,10 +124,10 @@ The best Windows and Office Activation Tool using HWID / KMS38 / Online KMS acti
 -  Windows 10 LTSB and LTSC
 -  Windows Server 2008R2, 2012, 2012R2, 2016, 2019 and 2022
 -  Office 2010 VL (Pro and Standard)
--  Office 2013 and 2013 LV/NOL (Pro and Standard)
+-  Office 2013 and 2013 VL/NOL (Pro and Standard)
 -  Office 2016 and 2016 VL/NOL (Pro and Standard)
--  Office 2019 and 2019 LV/NOL (Pro and Standard)
--  Office 2021 and 2021 LV/NOL (Pro and Standard)
+-  Office 2019 and 2019 VL/NOL (Pro and Standard)
+-  Office 2021 and 2021 VL/NOL (Pro and Standard)
 -  Office 365 (Will be converted to Mondo 2016 VL)
 
 The KMS only activates products that are not active on your PC, so if you have Windows or Office with your own license, the KMS will not modify it in any way. Furthermore, from the latest versions it is possible to choose what to activate through the Settings.
@@ -157,7 +157,7 @@ The LIFETIME License allows you to activate Windows 10/11 permanently via a KMS 
 
 To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
 
-### For more details, check Homepage:  https://massgrave.dev/
+### For more details, check Homepage: https://massgrave.dev/
 
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
 
