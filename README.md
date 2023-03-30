@@ -1,9 +1,9 @@
 # MAS_Cloud_AIO
-The best Windows and Office Activation Tool using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
+The best Windows and Office Activation Tool using HWID/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
 
 ITALIAN
 
-## Script di Attivazione Microsoft (MAS) Versione Cloud All-in-One:
+## Microsoft Activation Script (MAS) Versione Cloud All-in-One:
 
 Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di attivazione HWID/KMS38/KMS online, con particolare attenzione al codice open source e meno rilevamenti antivirus.
 
