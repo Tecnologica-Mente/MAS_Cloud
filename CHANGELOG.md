@@ -6,9 +6,9 @@ This is a full list of changes for each release of MAS_Cloud_AIO.
 First program version.
  
 ### Added
- - HWID Activation methods
- - KMS38 Activation methods
- - Online KMS Activation methods
+ - HWID Activation method
+ - KMS38 Activation method
+ - Online KMS Activation method
  - English language only
  
 ### Changed
