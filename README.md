@@ -5,7 +5,7 @@ ITALIAN
 
 ## Microsoft Activation Script (MAS) Versione Cloud All-in-One:
 
-Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di attivazione HWID/KMS38/KMS online, con particolare attenzione al codice open source e meno rilevamenti antivirus.
+Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di attivazione HWID/Ohook/KMS38/KMS online, con particolare attenzione al codice open source e meno rilevamenti antivirus.
 
 ## Caratteristiche
 -  Non si installa
@@ -18,15 +18,16 @@ Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di
 -  Non viene rilevato dall'antivirus come un programma pericoloso
 -  Licenze digitali/VITA
 -  Aggiornamenti automatici
--  Attivazione HWID [Metodo di livello inferiore e lockbox]
--  Attivazione KMS38 [Con opzione di protezione e disinstallazione]
--  Attivazione KMS online [Batch basato su file, nessun .dll .exe relativo a KMS richiesto]
+-  Metodo HWID (licenza digitale) per attivare Windows in modo permanente
+-  Metodo Ohook per attivare permanentemente Office
+-  Metodo KMS38 per attivare Windows/Server fino all'anno 2038
+-  Metodo KMS online per attivare Windows/Server/Office fino a 180 giorni (a vita con attività di rinnovo)
+-  Risoluzione avanzata dei problemi di attivazione
 -  Cartella $OEM$ per la preattivazione
--  Risoluzione dei problemi di attivazione
--  Inserisce la chiave HWID di Windows 10/11
--  Cambia l'edizione di Windows 10/11
--  Disponibile in versione All-in-One e in file separati
--  Completamente Open Source
+-  Cambia edizione di Windows
+-  Controlla lo stato di attivazione di Windows/Office
+-  Disponibile nella versione All In One e con file separati
+-  Completamente Open Source e basato su Batch Script
 
 ## Cosa attiva?
 -  Windows 7 Pro, Enterprise, Professional ed Embedded Thin PC
@@ -94,7 +95,7 @@ ENGLISH
 
 ## Microsoft Activation Scripts (MAS) Cloud Version All-in-One:
 
-The best Windows and Office Activation Tool using HWID/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+The best Windows and Office Activation Tool using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Features
 -  It doesn't install
@@ -107,15 +108,16 @@ The best Windows and Office Activation Tool using HWID/KMS38/Online KMS activati
 -  It is not detected by the antivirus as a dangerous program
 -  Digital/LIFETIME licenses
 -  Automatic updates
--  HWID Activation [Downlevel & Lockbox Method]
--  KMS38 Activation [With protection & Uninstallation option]
--  Online KMS Activation [Batch file based, no KMS related .dll .exe required]
+-  HWID (Digital License) Method to Permanently Activate Windows
+-  Ohook Method to Permanently Activate Office
+-  KMS38 Method to Activate Windows/Server Till the Year 2038
+-  Online KMS Method to Activate Windows/Server/Office Till 180 Days (Lifetime With Renewal Task)
+-  Advanced Activation Troubleshoot
 -  $OEM$ Folder For Preactivation
--  Activation Troubleshoot
--  Insert Windows 10/11 HWID Key
--  Change Windows 10/11 Edition
+-  Change Windows Edition
+-  Check Windows/Office Activation Status
 -  Available in All In One & Separate Files Version
--  Fully Open Source
+-  Fully Open Source and Based on Batch Script
 
 ## What activates?
 -  Windows 7 Pro, Enterprise, Professional and Embedded Thin PCs
