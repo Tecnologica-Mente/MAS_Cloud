@@ -1,11 +1,11 @@
 # MAS_Cloud_AIO
-The best Windows and Office Activation Tool using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
+The best Windows and Office Activation Tool using HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
 
 ITALIAN
 
 ## Microsoft Activation Script (MAS) Versione Cloud All-in-One:
 
-Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di attivazione HWID/Ohook/KMS38/KMS online, con particolare attenzione al codice open source e meno rilevamenti antivirus.
+Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di attivazione HWID/Ohook/TSforge/KMS38/KMS online, con particolare attenzione al codice open source e meno rilevamenti antivirus.
 
 ## Caratteristiche
 -  Non si installa
@@ -20,6 +20,7 @@ Il miglior strumento di attivazione di Windows e Office che utilizza i metodi di
 -  Aggiornamenti automatici
 -  Metodo HWID (licenza digitale) per attivare Windows in modo permanente
 -  Metodo Ohook per attivare permanentemente Office
+-  Metodo TSforge per attivare in modo permanente Windows/ESU/Office
 -  Metodo KMS38 per attivare Windows/Server fino all'anno 2038
 -  Metodo KMS online per attivare Windows/Server/Office fino a 180 giorni (a vita con attività di rinnovo)
 -  Risoluzione avanzata dei problemi di attivazione
@@ -95,7 +96,7 @@ ENGLISH
 
 ## Microsoft Activation Scripts (MAS) Cloud Version All-in-One:
 
-The best Windows and Office Activation Tool using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+The best Windows and Office Activation Tool using HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Features
 -  It doesn't install
@@ -110,6 +111,7 @@ The best Windows and Office Activation Tool using HWID/Ohook/KMS38/Online KMS ac
 -  Automatic updates
 -  HWID (Digital License) Method to Permanently Activate Windows
 -  Ohook Method to Permanently Activate Office
+-  TSforge Method to Permanently Activate Windows/ESU/Office
 -  KMS38 Method to Activate Windows/Server Till the Year 2038
 -  Online KMS Method to Activate Windows/Server/Office Till 180 Days (Lifetime With Renewal Task)
 -  Advanced Activation Troubleshoot
